@@ -20,11 +20,19 @@ Ejecutar el script con "-A", para instalar todos los modulos de Misp
 La instalacion va a tardar un buen rato, una vez finalizada.
 *Acceder a https://-ip-del-server*
 
-##Credenciales iniciales
+Credenciales iniciales
 
 admin:  admin@admin.test
 
 pass:   admin
+
+
+Para habilitar los feeds, para que se importen los eventos
+1_ Desde el menu superior, abrir "Sync Actions"
+2_ Seleccionar los 2 feeds
+3_ Habilitar los Feeds
+
+
 
 <details>
   <summary> Archivo Install.sh </summary>
@@ -3771,3 +3779,10 @@ if [[ "${FLAVOUR}" == "rhel" ]] || [[ "${FLAVOUR}" == "centos" ]] || [[ "${FLAVO
 fi
 ```
 </details>
+
+
+
+
+
+
+
