@@ -17,6 +17,15 @@ Ejecutar el script con "-A", para instalar todos los modulos de Misp
 ./Install.sh -A 
 ```
 
+La instalacion va a tardar un buen rato, una vez finalizada.
+*Acceder a https://-ip-del-server*
+
+##Credenciales iniciales
+
+admin:  admin@admin.test
+
+pass:   admin
+
 <details>
   <summary> Archivo Install.sh </summary>
   
