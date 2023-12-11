@@ -29,8 +29,15 @@ pass:   admin
 
 Para habilitar los feeds, para que se importen los eventos
 1_ Desde el menu superior, abrir "Sync Actions"
+
 2_ Seleccionar los 2 feeds
+
 3_ Habilitar los Feeds
+
+4_ Buscar y almacernar toda la informacion
+
+Listo, desde el menu superior ingresar a "Home", donde se iran cargando los eventos
+
 ![Feed-Misp](https://github.com/TinoSec/Install-Misp/blob/main/EnableFeed3.png)
 
 
